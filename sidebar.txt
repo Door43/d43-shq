@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shq:home|Door43 (shq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shq|d43-shq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shq/archive/master.zip|d43-shq.zip]]
+
+**Recent Changes**
+{{changes>ns = shq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shq|Ethnologue data]]
+
